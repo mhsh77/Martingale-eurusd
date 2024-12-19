@@ -3,6 +3,7 @@
 This project implements a Martingale trading strategy using random signals on the EUR/USD forex pair. The Martingale strategy is a high-risk trading approach that involves doubling the stake after each loss to recover previous losses and make a profit.
 
 ## Overview
+![bokeh_plot](https://github.com/user-attachments/assets/343e5ba0-d3c4-44af-8f64-87275c9cd45d)
 
 The code:
 - Generates random buy/sell signals for EUR/USD.
